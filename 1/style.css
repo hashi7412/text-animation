@@ -1,0 +1,27 @@
+@import url('https://www.fontspace.com/a-assassin-ninja-font-f51018');
+
+html {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: webfontw12j8;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+[animated-text] {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 0.3em;
+}
